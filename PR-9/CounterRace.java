@@ -62,4 +62,3 @@ public class CounterRace {
         System.out.println("Actual count: " + counter2.count);
     }
 }
-
